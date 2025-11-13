@@ -111,3 +111,32 @@ int main() {
 
     return 0;
 }
+
+//algo
+For Stack (using array)
+
+Start
+
+Initialize top = -1
+
+Push: Insert element if top < SIZE-1
+
+Pop: Remove element if top >= 0
+
+Display: Print elements from top to 0
+
+Stop
+
+For Queue (using array)
+
+Start
+
+Initialize front = -1, rear = -1
+
+Add (Enqueue): Insert element if rear < SIZE-1
+
+Delete (Dequeue): Remove element if queue not empty
+
+Display: Print elements from front to rear
+
+Stop
