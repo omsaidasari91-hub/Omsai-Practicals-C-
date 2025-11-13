@@ -107,3 +107,27 @@ int main() {
     printf("\n=== Code Execution Successful ===\n");
     return 0;
 }
+
+
+//algo
+Start
+
+Define structure for BST node (data, left, right).
+
+Create BST:
+
+Input number of nodes.
+
+Insert each node using BST rules.
+
+Traversals (recursive):
+
+Inorder: Left → Root → Right
+
+Preorder: Root → Left → Right
+
+Postorder: Left → Right → Root
+
+Display menu repeatedly until user chooses Exit.
+
+Stop
