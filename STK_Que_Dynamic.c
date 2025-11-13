@@ -145,3 +145,48 @@ int main() {
 
     return 0;
 }
+
+//algo
+🔸 For Stack (Linked List Implementation)
+
+Start
+
+Create structure node with data and next.
+
+Initialize top = NULL.
+
+Push:
+
+Create new node, insert data, link to top, update top.
+
+Pop:
+
+Remove node from top, free memory.
+
+Display:
+
+Traverse from top and print each element.
+
+Stop
+
+🔸 For Queue (Linked List Implementation)
+
+Start
+
+Create structure node with data and next.
+
+Initialize front = rear = NULL.
+
+Add (Enqueue):
+
+Create new node, link to rear, update rear.
+
+Delete (Dequeue):
+
+Remove node from front, free memory.
+
+Display:
+
+Traverse from front and print each element.
+
+Stop
