@@ -26,3 +26,21 @@ int main() {
 
     return 0;
 }
+
+//Algo
+Start
+
+Read number of rows n
+
+For i = 1 to n
+  Print spaces (n - i)
+  Print numbers 1 to (2*i - 1)
+  Print new line
+
+For i = n-1 down to 1
+  Print spaces (n - i)
+  Print numbers 1 to (2*i - 1)
+  Print new line
+
+End
+
