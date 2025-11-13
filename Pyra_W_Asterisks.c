@@ -16,3 +16,15 @@ int main() {
 
     return 0;
 }
+
+//algo
+Start
+
+Read number of rows n
+
+For i = 1 to n
+  a. Print spaces (n - i)
+  b. Print asterisks * from 1 to (2*i - 1)
+  c. Print new line
+
+End
