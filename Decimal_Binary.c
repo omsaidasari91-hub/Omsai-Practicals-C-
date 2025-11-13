@@ -36,3 +36,20 @@ int main() {
 
     return 0;
 }
+
+//algo
+Start
+
+Initialize an empty stack.
+
+Input a decimal number.
+
+While the number > 0:
+
+Push (number % 2) onto the stack.
+
+Divide the number by 2.
+
+Pop and display all elements from the stack (binary digits).
+
+Stop
