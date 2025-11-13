@@ -15,3 +15,19 @@ int main() {
 
     return 0;
 }
+
+
+
+
+\\allgo
+Start
+
+Read number of rows n
+
+For i = 1 to n
+  For j = 1 to i
+   Print j
+  End inner loop
+  Print new line
+
+End
