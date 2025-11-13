@@ -103,3 +103,26 @@ int main() {
 
     return 0;
 }
+
+//algo
+Start
+
+Define structure student with roll number, name, course, marks[], total, and average.
+
+Input details for all students.
+
+Calculate total and average marks for each student.
+
+Display menu with options:
+
+Display all student records
+
+Search by roll number
+
+Sort by total marks (descending order)
+
+Perform the chosen operation.
+
+Repeat until user selects Exit.
+
+Stop
