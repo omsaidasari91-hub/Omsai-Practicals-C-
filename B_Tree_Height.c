@@ -86,3 +86,28 @@ int main() {
     printf("\n=== Code Execution Successful ===\n");
     return 0;
 }
+
+//algo
+Start
+
+Define a structure for BST node (data, left, right).
+
+Insert nodes into BST using standard BST insertion rules.
+
+Perform Inorder Traversal (Left → Root → Right).
+
+To find Height:
+
+Recursively find the height of left and right subtrees.
+
+Height = 1 + max(leftHeight, rightHeight).
+
+To find Depth of a given node:
+
+Start from the root,
+
+Traverse until the node is found, counting the levels.
+
+Display inorder traversal, height, and depth.
+
+Stop
