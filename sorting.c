@@ -99,3 +99,47 @@ void display(float arr[], int n) {
         printf("%.2f  ", arr[i]);
     printf("\n");
 }
+
+//algo
+1️⃣ Bubble Sort – Short Algorithm
+
+Start
+
+Read n and array elements
+
+For i = 0 to n-1
+  For j = 0 to n-i-2
+   If arr[j] > arr[j+1], swap them
+
+Print sorted array
+
+End
+
+2️⃣ Selection Sort – Short Algorithm
+
+Start
+
+Read n and array elements
+
+For i = 0 to n-2
+  Find smallest element in unsorted part
+  Swap it with element at position i
+
+Print sorted array
+
+End
+
+3️⃣ Insertion Sort – Short Algorithm
+
+Start
+
+Read n and array elements
+
+For i = 1 to n-1
+  Set key = arr[i]
+  Shift elements greater than key right
+  Insert key in correct position
+
+Print sorted array
+
+End
